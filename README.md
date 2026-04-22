@@ -8,7 +8,7 @@ HPC infrastructure.
 - 🔭 **Currently:** Providing remote HPC support and model deployment services.
 - 🌱 **Learning:** Machine Learning for emission data inversion and smart proxy.
 - 💬 **Ask me about:** Fortran compilation, MPI, NetCDF, Slurm, and model porting.
-- 📫 **Contact:** hpc.specialist@proton.me
+- 📫 **Contact:** 4667588+HPCSpecialist@users.noreply.github.com
 
 ## 🛠️ Core Competencies
 
